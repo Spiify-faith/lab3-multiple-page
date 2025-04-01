@@ -1,4 +1,4 @@
-Group members (Selita Faith Nambule 2021470776 & Chimwemwe Namutowe 2021 )
+Group members (Selita Faith Nambule 2021470776 & Chimwemwe Namutowe )
 PAGE DISCRIPTIONS 
 index.html: which is my Home page with a hero banner, flexbox layout, and navigation.  
 services.html: Displays 4 service cards using CSS Grid and hover animation.  
